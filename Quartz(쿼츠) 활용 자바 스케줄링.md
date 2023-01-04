@@ -91,7 +91,7 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=beanpole2020
 
 https://data-make.tistory.com/700
 
-
+https://invincure.tistory.com/entry/Java-Quartz-%EC%BF%BC%EC%B8%A0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9E%90%EB%B0%94-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81scheduling-%ED%95%98%EA%B8%B0
 
 
 
